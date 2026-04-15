@@ -7,4 +7,6 @@ jobs:
     steps:
       - name: Print message
         run: echo "Hello, World!"
+      - name: Print another message
+        run: echo "heyyyy"
       
